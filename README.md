@@ -22,8 +22,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: ASIN VARDHINI R
+
+### Register Number: 212222100007
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
